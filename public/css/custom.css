@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Ribeye&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@500;600;700&family=Ribeye&display=swap');
+
+/* body{
+    font-family: 'Ribeye', 'Red Rose', cursive;
+} */
+.navbar a {
+    font-family: 
+    'Red Rose',cursive;
+}
+.navbar h2{
+    font-family: 
+    'Ribeye', cursive;
+}
+.banner img {
+    width: 100%;
+    border-radius: 15px 20px 15px 20px;
+
+}
+
+.pilih-liga img {
+    max-height: 100px;
+}
+
+.pilih-liga .card {
+    border-radius: 15px;
+}
+
+.products .card {
+    border-radius: 15px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb .active {
+    font-weight: bold;
+    color: black;
+}
+
+.btn-dark {
+    border-radius: 10px;
+}
+
+.gambar-product {
+    background-color: #F1F1F1;
+    border-width: 0;
+    border-radius: 20px;
+}
